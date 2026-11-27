@@ -1,0 +1,7 @@
+print("Python course")
+print("Module", 8)
+print()
+print("a", "b", "c", sep="-")
+print("No new line", end=" ")
+print("— continued")
+print("Zażółć gęślą jaźń — café, naïve")
